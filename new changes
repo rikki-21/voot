@@ -113,7 +113,7 @@
             },
             "title": "Badava Rascal",
             "description": "",
-            "season": "NA",
+            "season": "01",
             "episode": "Kannada",
             "subtitle": "Comedy"
           }
@@ -136,7 +136,7 @@
               "icnSize": 30
             },
             "title": "Ramachari",
-            "description": "NA",
+            "description": "",
             "season": "Colors",
             "episode": "Kannada",
             "subtitle": "Romance"
@@ -199,7 +199,7 @@
             "title": "",
             "season": "01",
             "episode": "01",
-            "fontSize": 10
+            "subtitle": ""
           }
         },
         {
@@ -225,7 +225,7 @@
             "title": "",
             "season": "01",
             "episode": "02",
-            "fontSize": 10
+            "subtitle": ""
           }
         },
         {
@@ -251,7 +251,7 @@
             "title": "",
             "season": "02",
             "episode": "01",
-            "fontSize": 10
+            "subtitle": ""
           }
         },
         {
@@ -277,7 +277,7 @@
             "title": "",
             "season": "02",
             "episode": "03",
-            "fontSize": 10
+            "subtitle": ""
           }
         },
         {
@@ -303,7 +303,7 @@
             "title": "",
             "season": "03",
             "episode": "01",
-            "fontSize": 10
+            "subtitle": ""
           }
         }
       ]
@@ -359,7 +359,7 @@
             "description": "",
             "season": "01",
             "episode": "01",
-            "fontSize": 10
+            "subtitle": ""
           }
         },
         {
@@ -383,7 +383,7 @@
             "description": "",
             "season": "01",
             "episode": "02",
-            "fontSize": 10
+            "subtitle": ""
           }
         },
         {
@@ -406,7 +406,8 @@
             "title": "The Circus",
             "description": "",
             "season": "01",
-            "episode": "02"
+            "episode": "02",
+            "subtitle": ""
           }
         },
         {
@@ -429,7 +430,8 @@
             "title": "The Khatra Show",
             "description": "",
             "season": "01",
-            "episode": "05"
+            "episode": "05",
+            "subtitle": ""
           }
         },
         {
@@ -452,7 +454,8 @@
             "title": "Spy Bahu",
             "description": "",
             "season": "02",
-            "episode": "03"
+            "episode": "03",
+            "subtitle": ""
           }
         }
       ]
@@ -490,11 +493,13 @@
           "bgImg": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
           "closeIconSize": 10,
           "mediaType": "video",
-          "title": "",
-          "description": "",
-          "season": "",
-          "episode": "",
-          "subtitle": ""
+          "contentInfo": {
+            "title": "",
+            "description": "",
+            "season": "",
+            "episode": "",
+            "subtitle": ""
+          }
         }
       ]
     }
