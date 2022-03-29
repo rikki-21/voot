@@ -10,14 +10,14 @@
         "cornerRadius": 360,
         "titleSection": {
           "titlePosition": "left",
-          "titleFontSize": 18,
+          "titleFontSize": 180,
           "subTitleSection": {
             "subTitlePosition": "left",
-            "subtitleFontsize": 15,
+            "subtitleFontsize": 150,
             "seasonPosition": "left",
-            "seasonFontsize": 15,
+            "seasonFontsize": 150,
             "episodePosition": "left",
-            "episodeFontsize": 15
+            "episodeFontsize": 150
           }
         }
       },
@@ -41,8 +41,8 @@
             },
             "title": "Apaharan",
             "description": "",
-            "season": "02",
-            "episode": "01",
+            "season": "S02",
+            "episode": "E01",
             "subtitle": "Rudra in Demand!"
           }
         },
@@ -65,8 +65,8 @@
             },
             "title": "The Khatra show",
             "description": "",
-            "season": "01",
-            "episode": "05",
+            "season": "S01",
+            "episode": "E05",
             "subtitle": "Munmun on a mission"
           }
         },
@@ -113,7 +113,7 @@
             },
             "title": "Badava Rascal",
             "description": "",
-            "season": "01",
+            "season": "S01",
             "episode": "Kannada",
             "subtitle": "Comedy"
           }
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "railName": "Continue_watching",
+      "railName": "Continue Watching",
       "uiSpec": {
         "trayLayout": "linearTray",
         "progressBar": 90,
@@ -155,14 +155,14 @@
         "cardAspectRatio": "9:16",
         "titleSection": {
           "titlePosition": "left",
-          "titleFontSize": 18,
+          "titleFontSize": 90,
           "subTitleSection": {
             "subTitlePosition": "left",
-            "subtitleFontsize": 15,
+            "subtitleFontsize": 60,
             "seasonPosition": "left",
-            "seasonFontsize": 15,
+            "seasonFontsize": 60,
             "episodePosition": "left",
-            "episodeFontsize": 15
+            "episodeFontsize": 60
           }
         },
         "railNameSize": 26,
@@ -197,14 +197,14 @@
             },
             "description": "",
             "title": "",
-            "season": "01",
-            "episode": "01",
+            "season": "S01",
+            "episode": "E01",
             "subtitle": ""
           }
         },
         {
           "isPremium": false,
-          "progressPercentage": 90,
+          "progressPercentage": 70,
           "premiumIcn": {
             "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
             "icnSize": 20
@@ -223,8 +223,8 @@
             },
             "description": "",
             "title": "",
-            "season": "01",
-            "episode": "02",
+            "season": "S01",
+            "episode": "S02",
             "subtitle": ""
           }
         },
@@ -249,14 +249,14 @@
             },
             "description": "",
             "title": "",
-            "season": "02",
-            "episode": "01",
+            "season": "S02",
+            "episode": "E01",
             "subtitle": ""
           }
         },
         {
           "isPremium": false,
-          "progressPercentage": 90,
+          "progressPercentage": 40,
           "premiumIcn": {
             "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
             "icnSize": 20
@@ -275,14 +275,14 @@
             },
             "description": "",
             "title": "",
-            "season": "02",
-            "episode": "03",
+            "season": "S02",
+            "episode": "E03",
             "subtitle": ""
           }
         },
         {
           "isPremium": true,
-          "progressPercentage": 90,
+          "progressPercentage": 20,
           "premiumIcn": {
             "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
             "icnSize": 20
@@ -301,15 +301,15 @@
             },
             "description": "",
             "title": "",
-            "season": "03",
-            "episode": "01",
+            "season": "S03",
+            "episode": "E01",
             "subtitle": ""
           }
         }
       ]
     },
     {
-      "railName": "latest_episode",
+      "railName": "Latest Episode",
       "uiSpec": {
         "trayLayout": "linearTray",
         "cardHeight": 300,
@@ -318,14 +318,14 @@
         "cardAspectRatio": "9:16",
         "titleSection": {
           "titlePosition": "left",
-          "titleFontSize": 18,
+          "titleFontSize": 90,
           "subTitleSection": {
             "subTitlePosition": "left",
-            "subtitleFontsize": 15,
+            "subtitleFontsize": 60,
             "seasonPosition": "left",
-            "seasonFontsize": 15,
+            "seasonFontsize": 60,
             "episodePosition": "left",
-            "episodeFontsize": 15
+            "episodeFontsize": 60
           }
         },
         "railNameSize": 26,
@@ -357,8 +357,8 @@
             },
             "title": "Fanaa",
             "description": "",
-            "season": "01",
-            "episode": "01",
+            "season": "S01",
+            "episode": "E01",
             "subtitle": ""
           }
         },
@@ -381,8 +381,8 @@
             },
             "title": "Halo",
             "description": "",
-            "season": "01",
-            "episode": "02",
+            "season": "S01",
+            "episode": "E02",
             "subtitle": ""
           }
         },
@@ -405,8 +405,8 @@
             },
             "title": "The Circus",
             "description": "",
-            "season": "01",
-            "episode": "02",
+            "season": "S01",
+            "episode": "E02",
             "subtitle": ""
           }
         },
@@ -429,8 +429,8 @@
             },
             "title": "The Khatra Show",
             "description": "",
-            "season": "01",
-            "episode": "05",
+            "season": "S01",
+            "episode": "E05",
             "subtitle": ""
           }
         },
@@ -453,15 +453,15 @@
             },
             "title": "Spy Bahu",
             "description": "",
-            "season": "02",
-            "episode": "03",
+            "season": "S02",
+            "episode": "E03",
             "subtitle": ""
           }
         }
       ]
     },
     {
-      "railName": "banner_card",
+      "railName": "",
       "uiSpec": {
         "cardHeight": 700,
         "cardWidth": 450,
