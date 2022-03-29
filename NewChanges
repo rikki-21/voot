@@ -10,14 +10,14 @@
         "cornerRadius": 360,
         "titleSection": {
           "titlePosition": "left",
-          "titleFontSize": 180,
+          "titleFontSize": 45,
           "subTitleSection": {
             "subTitlePosition": "left",
-            "subtitleFontsize": 150,
+            "subtitleFontsize": 30,
             "seasonPosition": "left",
-            "seasonFontsize": 150,
+            "seasonFontsize": 30,
             "episodePosition": "left",
-            "episodeFontsize": 150
+            "episodeFontsize": 30
           }
         }
       },
@@ -155,14 +155,14 @@
         "cardAspectRatio": "9:16",
         "titleSection": {
           "titlePosition": "left",
-          "titleFontSize": 90,
+          "titleFontSize": 30,
           "subTitleSection": {
             "subTitlePosition": "left",
-            "subtitleFontsize": 60,
+            "subtitleFontsize": 25,
             "seasonPosition": "left",
-            "seasonFontsize": 60,
+            "seasonFontsize": 25,
             "episodePosition": "left",
-            "episodeFontsize": 60
+            "episodeFontsize": 25
           }
         },
         "railNameSize": 26,
@@ -318,14 +318,14 @@
         "cardAspectRatio": "9:16",
         "titleSection": {
           "titlePosition": "left",
-          "titleFontSize": 90,
+          "titleFontSize": 30,
           "subTitleSection": {
             "subTitlePosition": "left",
-            "subtitleFontsize": 60,
+            "subtitleFontsize": 25,
             "seasonPosition": "left",
-            "seasonFontsize": 60,
+            "seasonFontsize": 25,
             "episodePosition": "left",
-            "episodeFontsize": 60
+            "episodeFontsize": 25
           }
         },
         "railNameSize": 26,
