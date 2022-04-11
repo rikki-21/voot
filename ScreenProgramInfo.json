@@ -1,0 +1,162 @@
+{
+    "assets": [
+        {
+            "railName": "",
+            "uiSpec": {
+                "mediaType": "video",
+                "cardHeight": "440",
+                "cornerRadius": "300",
+                "cardWidth": "650",
+                "cardAspectRatio": "9:16",
+                "titleSection": {
+                    "titlePosition": "left",
+                    "titleFontSize": 45,
+                    "descriptionSection": {
+                        "descriptionPosition": "left",
+                        "descriptionFontSize": 45
+                    }
+                }
+            },
+            "railCardItems": {
+                "imgUrl": "https://i.postimg.cc/C19W7w7D/program-img.webp",
+                "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+                "title": "Asur",
+                "language": [
+                    "Hindi"
+                ],
+                "audio": [
+                    "Hindi"
+                ],
+                "description": "A unique crime thriller that pits two opposing worlds against each other. The less explored, intricate world of forensic science and the deep mysticism of ancient Indian Mythology",
+                "duration": 40,
+                "yearOfRelease": 2020,
+                "ageRating": "U/A16+",
+                "ageRatingDescription": "Moderate Language, Violence",
+                "playButton": {
+                    "ButtonText": "Watch now",
+                    "fontSize": "12",
+                    "buttonLink:": "https://i.postimg.cc/65zNJxps/Watch-now-button.png",
+                    "ButtonBgColor": "#ffffff"
+                },
+                "likeButton": {
+                    "onClickLikeButton": "https://i.postimg.cc/RZDqcbyt/like-button.png"
+                }
+            }
+        },
+        {
+            "railName": "Episodes",
+            "uiSpec": {
+                "trayRepresentation": "sameContent",
+                "trayOrientation": "vertical",
+                "trayContentType": "dynamic",
+                "trayLayout": "linearTray",
+                "cardHeight": "320",
+                "cornerRadius": "200",
+                "cardWidth": "180",
+                "cardShape": "",
+                "titleSection": {
+                    "titlePosition": "left",
+                    "titleFontSize": 45,
+                    "subTitleSection": {
+                        "subTitlePosition": "left",
+                        "subtitleFontSize": 30,
+                        "vootIcnPosition": "Top-right"
+                    }
+                }
+            },
+            "railCardItems": [
+                {
+                    "cardId": "01",
+                    "isPremium": true,
+                    "premiumIcn": {
+                        "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+                        "icnSize": 20
+                    },
+                    "duration": "40",
+                    "imgUrl": "https://i.postimg.cc/qv3H5bgy/asur-1.webp",
+                    "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+                    "nextPageAPI": "https://qwerty",
+                    "mediaType": "video",
+                    "contentInfo": {
+                        "playButtonIcn": {
+                            "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+                            "icnSize": 10
+                        },
+                        "title": "The dead can talk",
+                        "episode": "E01"
+                    }
+                },
+                {
+                    "cardId": "02",
+                    "isPremium": true,
+                    "premiumIcn": {
+                        "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+                        "icnSize": 20
+                    },
+                    "duration": "47",
+                    "imgUrl": "https://i.postimg.cc/ZRk8Lq26/asur-2.webp",
+                    "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+                    "nextPageAPI": "https://qwerty",
+                    "mediaType": "video",
+                    "contentInfo": {
+                        "playButtonIcn": {
+                            "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+                            "icnSize": 10
+                        },
+                        "title": "The dead can talk",
+                        "episode": "E01"
+                    }
+                }
+            ]
+        },
+        {
+            "railName": "Trailer tray",
+            "uiSpec": {
+                "trayLayout": "linearTray",
+                "cardHeight": "264",
+                "cornerRadius": "200",
+                "cardWidth": "149",
+                "cardShape": "null",
+                "cardAspectRatio": "16:9"
+            },
+            "railCardItems": [
+                {
+                    "cardId": 1,
+                    "contentType": "video",
+                    "imgUrl": "https://i.postimg.cc/MHpv026y/trailer-1.webp",
+                    "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+                    "playButton": {
+                        "buttonLink:": "https://i.postimg.cc/d1cYcjbK/Play-Button.pngf"
+                    },
+                    "nextPageApi": "https://wertt"
+                }
+            ]
+        },
+        {
+            "railName": "More like this",
+            "uiSpec": {
+                "trayRepresentation": "none",
+                "trayOrientation": "vertical",
+                "trayContentType": "recommendation",
+                "trayLayout": "gridTray",
+                "cardHeight": "320",
+                "cornerRadius": "200",
+                "cardWidth": "180",
+                "cardShape": "",
+                "titleSection": {
+                    "titlePosition": "left",
+                    "titleFontSize": 45
+                }
+            },
+            "railCardItems": [
+                {
+                    "title": "Related Shows",
+                    "dataMonk": {
+                        "widgetType": "SAME_CATEGORY_SIMILAR_SERIES",
+                        "trayType": "scss"
+                    }
+                }
+            ]
+        }
+    ]
+}
