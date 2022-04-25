@@ -40,9 +40,7 @@
             "buttonLink:": "https://i.postimg.cc/65zNJxps/Watch-now-button.png",
             "ButtonBgColor": "#ffffff"
           },
-          "likeButton": {
-            "onClickLikeButton": "https://i.postimg.cc/RZDqcbyt/like-button.png"
-          }
+          "likeButton": "https://i.postimg.cc/RZDqcbyt/like-button.png"
         }
       ]
     },
@@ -124,12 +122,14 @@
       },
       "railCardItems": [
         {
+           "title": "Asur: Official trailer",
           "cardId": 1,
           "contentType": "video",
           "imgUrl": "https://i.postimg.cc/MHpv026y/trailer-1.webp",
           "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
           "playButton": {
-            "buttonLink:": "https://i.postimg.cc/d1cYcjbK/Play-Button.pngf"
+            "buttonLink:": "https://i.postimg.cc/d1cYcjbK/Play-Button.pngf",
+            "icnSize": 10
           },
           "nextPageApi": "https://wertt"
         }
@@ -154,10 +154,22 @@
       "railCardItems": [
         {
           "title": "Related Shows",
-          "dataMonk": {
-            "widgetType": "SAME_CATEGORY_SIMILAR_SERIES",
-            "trayType": "scss"
-          }
+          "cardId": 1,
+          "contentType": "video",
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "duration": "40",
+          "imgUrl": "https://i.postimg.cc/MHpv026y/trailer-1.webp",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+          "nextPageApi": "https://wertt"
         }
       ]
     }
