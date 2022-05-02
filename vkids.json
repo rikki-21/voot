@@ -1,0 +1,201 @@
+{
+  "assets": [
+    {
+      "railName": "",
+      "uiSpec": {
+        "mediaType": "video",
+        "cardHeight": "440",
+        "cornerRadius": "300",
+        "cardWidth": "650",
+        "cardAspectRatio": "9:16",
+        "titleSection": {
+          "titlePosition": "left",
+          "titleFontSize": 45,
+          "descriptionSection": {
+            "descriptionPosition": "left",
+            "descriptionFontSize": 45
+          }
+        }
+      },
+      "railCardItems": [
+        {
+          "imgUrl": "https://i.postimg.cc/C19W7w7D/program-img.webp",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "title": "Asur",
+          "language": [
+            "Hindi"
+          ],
+          "audio": [
+            "Hindi"
+          ],
+          "description": "A unique crime thriller that pits two opposing worlds against each other. The less explored, intricate world of forensic science and the deep mysticism of ancient Indian Mythology",
+          "duration": 40,
+          "yearOfRelease": 2020,
+          "ageRating": "U/A16+",
+          "ageRatingDescription": "Moderate Language, Violence",
+          "playButton": {
+            "ButtonText": "Watch now",
+            "fontSize": "12",
+            "buttonLink:": "https://i.postimg.cc/65zNJxps/Watch-now-button.png",
+            "ButtonBgColor": "#ffffff"
+          },
+          "likeButton": "https://i.postimg.cc/RZDqcbyt/like-button.png"
+        }
+      ]
+    },
+    {
+      "railName": "Realated Movies",
+      "uiSpec": {
+        "trayRepresentation": "sameContent",
+        "trayOrientation": "vertical",
+        "trayContentType": "dynamic",
+        "trayLayout": "linearTray",
+        "cardHeight": "320",
+        "cornerRadius": "200",
+        "cardWidth": "180",
+        "cardShape": "",
+        "titleSection": {
+          "titlePosition": "left",
+          "titleFontSize": 45,
+          "subTitleSection": {
+            "subTitlePosition": "left",
+            "subtitleFontSize": 30,
+            "vootIcnPosition": "Top-right"
+          }
+        }
+      },
+      "railCardItems": [
+        {
+          "cardId": "01",
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "duration": "40",
+          "imgUrl": "https://kimg.voot.com/kimg/dc2ec723e1394927a9d743f043d6ce07_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "title": "The dead can talk",
+            "episode": "E01"
+          }
+        },
+        {
+          "cardId": "02",
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "duration": "47",
+          "imgUrl": "https://kimg.voot.com/kimg/ce16805c97924b4cbc62bc122960dbe3_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "title": "The dead can talk",
+            "episode": "E01"
+          }
+        },
+        {
+          "cardId": "03",
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "duration": "47",
+          "imgUrl": "https://kimg.voot.com/kimg/4e6f8b92afdd4fb69b68468383a7cb36_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "title": "The dead can talk",
+            "episode": "E01"
+          }
+        },
+        {
+          "cardId": "04",
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "duration": "47",
+          "imgUrl": "https://kimg.voot.com/kimg/e170a51374cf497b8d0c838cb3890ac5_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "title": "The dead can talk",
+            "episode": "E01"
+          }
+        },
+        {
+          "cardId": "05",
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "duration": "47",
+          "imgUrl": "https://kimg.voot.com/kimg/4e6f8b92afdd4fb69b68468383a7cb36_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "title": "The dead can talk",
+            "episode": "E01"
+          }
+        },
+        {
+          "cardId": "06",
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "duration": "47",
+          "imgUrl": "https://kimg.voot.com/kimg/eecaca7180274d58abcf4301de47b891_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "title": "The dead can talk",
+            "episode": "E01"
+          }
+        }
+      ]
+    }
+  ],
+  "status": {
+    "code": 200,
+    "message": "OK"
+  }
+}
