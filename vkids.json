@@ -50,9 +50,9 @@
         "trayOrientation": "vertical",
         "trayContentType": "dynamic",
         "trayLayout": "linearTray",
-        "cardHeight": "320",
+        "cardHeight": "115",
         "cornerRadius": "200",
-        "cardWidth": "180",
+        "cardWidth": "200",
         "cardShape": "",
         "titleSection": {
           "titlePosition": "left",
@@ -74,7 +74,7 @@
           },
           "duration": "40",
           "imgUrl": "https://kimg.voot.com/kimg/dc2ec723e1394927a9d743f043d6ce07_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
-          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "bgImage": "https://kimg.voot.com/kimg/dc2ec723e1394927a9d743f043d6ce07_1280X720.jpg?impolicy=resizeMedium&w=200&h=112.5",
           "nextPageAPI": "https://qwerty",
           "mediaType": "video",
           "contentInfo": {
@@ -94,8 +94,8 @@
             "icnSize": 20
           },
           "duration": "47",
-          "imgUrl": "https://kimg.voot.com/kimg/ce16805c97924b4cbc62bc122960dbe3_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
-          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "imgUrl": "https://kimg.voot.com/kimg/5a2964193c844dbab80bd3e1ff280439_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
+          "bgImage": "https://kimg.voot.com/kimg/5a2964193c844dbab80bd3e1ff280439_1280X720.jpg?impolicy=resizeMedium&w=200&h=112.5",
           "nextPageAPI": "https://qwerty",
           "mediaType": "video",
           "contentInfo": {
@@ -116,7 +116,7 @@
           },
           "duration": "47",
           "imgUrl": "https://kimg.voot.com/kimg/4e6f8b92afdd4fb69b68468383a7cb36_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
-          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "bgImage": "https://kimg.voot.com/kimg/4e6f8b92afdd4fb69b68468383a7cb36_1280X720.jpg?impolicy=resizeMedium&w=200&h=112.5",
           "nextPageAPI": "https://qwerty",
           "mediaType": "video",
           "contentInfo": {
@@ -136,8 +136,8 @@
             "icnSize": 20
           },
           "duration": "47",
-          "imgUrl": "https://kimg.voot.com/kimg/e170a51374cf497b8d0c838cb3890ac5_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
-          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "imgUrl": "https://kimg.voot.com/kimg/0c793da65d9f44f590de3716a6ba4d52_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
+          "bgImage": "https://kimg.voot.com/kimg/0c793da65d9f44f590de3716a6ba4d52_1280X720.jpg?impolicy=resizeMedium&w=200&h=112.5",
           "nextPageAPI": "https://qwerty",
           "mediaType": "video",
           "contentInfo": {
@@ -157,8 +157,8 @@
             "icnSize": 20
           },
           "duration": "47",
-          "imgUrl": "https://kimg.voot.com/kimg/4e6f8b92afdd4fb69b68468383a7cb36_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
-          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "imgUrl": "https://kimg.voot.com/kimg/8946d30ba5c14fde869f5ec577d591eb_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
+          "bgImage": "https://kimg.voot.com/kimg/8946d30ba5c14fde869f5ec577d591eb_1280X720.jpg?impolicy=resizeMedium&w=200&h=112.5",
           "nextPageAPI": "https://qwerty",
           "mediaType": "video",
           "contentInfo": {
@@ -178,8 +178,8 @@
             "icnSize": 20
           },
           "duration": "47",
-          "imgUrl": "https://kimg.voot.com/kimg/eecaca7180274d58abcf4301de47b891_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
-          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "imgUrl": "https://kimg.voot.com/kimg/961914e724fb463c873ba4ca48ea00fe_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
+          "bgImage": "https://kimg.voot.com/kimg/961914e724fb463c873ba4ca48ea00fe_1280X720.jpg?impolicy=resizeMedium&w=200&h=112.5",
           "nextPageAPI": "https://qwerty",
           "mediaType": "video",
           "contentInfo": {
