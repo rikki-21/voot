@@ -8,6 +8,7 @@
         "cardWidth": 750,
         "cardAspectRatio": "9:16",
         "cornerRadius": 360,
+        "bgImage": "https://vkimg.vootkids.com/kidsimg/voot-kids/prod/include/upload/voot-kids-images/tab-menu/tablet_pattern_icon_1616415544_600X600.png",
         "titleSection": {
           "titlePosition": "left",
           "titleFontSize": 45,
@@ -95,7 +96,7 @@
           }
         },
         {
-          "isPremium": false,
+          "isPremium": true,
           "premiumIcn": {
             "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
             "icnSize": 30
@@ -119,7 +120,7 @@
           }
         },
         {
-          "isPremium": true,
+          "isPremium": false,
           "premiumIcn": {
             "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
             "icnSize": 30
@@ -153,6 +154,7 @@
         "cardWidth": 500,
         "cornerRadius": 360,
         "cardAspectRatio": "9:16",
+        "bgImage": "https://vkimg.vootkids.com/kidsimg/voot-kids/prod/include/upload/voot-kids-images/tab-menu/tablet_pattern_icon_1646833566_452X452.png",
         "titleSection": {
           "titlePosition": "left",
           "titleFontSize": 30,
@@ -281,7 +283,7 @@
           }
         },
         {
-          "isPremium": true,
+          "isPremium": false,
           "progressPercentage": 20,
           "premiumIcn": {
             "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
@@ -316,6 +318,7 @@
         "cardWidth": 500,
         "cornerRadius": 360,
         "cardAspectRatio": "9:16",
+        "bgImage": "https://vkimg.vootkids.com/kidsimg/voot-kids/prod/include/upload/voot-kids-web-images/deck/webMystuffCarousel_1_7_bg_image_1651640903_1280X720.jpg?impolicy=resizeMedium&w=492&h=276",
         "titleSection": {
           "titlePosition": "left",
           "titleFontSize": 30,
@@ -340,7 +343,7 @@
       "railCardItems": [
         {
           "cardId": "01",
-          "isPremium": true,
+          "isPremium": false,
           "premiumIcn": {
             "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
             "icnSize": 20
@@ -364,7 +367,7 @@
         },
         {
           "cardId": "02",
-          "isPremium": false,
+          "isPremium": true,
           "premiumIcn": {
             "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
             "icnSize": 20
@@ -467,6 +470,7 @@
         "cardWidth": 450,
         "cornerRadius": 360,
         "cardAspectRatio": "2:1",
+        "bgImage": "https://vkimg.vootkids.com/kidsimg/voot-kids/prod/include/upload/voot-kids-web-images/deck/webMystuffCarousel_1_7_bg_image_1651640903_1280X720.jpg?impolicy=resizeMedium&w=492&h=276",
         "titleSection": {
           "titlePosition": "left",
           "titleFontSize": 18,
