@@ -149,7 +149,7 @@
       "railName": "Continue Watching",
       "uiSpec": {
         "trayLayout": "linearTray",
-        "progressBar": 90,
+        "progressBar": 79,
         "cardHeight": 300,
         "cardWidth": 500,
         "cornerRadius": 360,
@@ -180,7 +180,7 @@
       "railCardItems": [
         {
           "isPremium": true,
-          "progressPercentage": 90,
+          "progressPercentage": 80,
           "premiumIcn": {
             "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
             "icnSize": 20
@@ -232,7 +232,7 @@
         },
         {
           "isPremium": true,
-          "progressPercentage": 90,
+          "progressPercentage": 65,
           "premiumIcn": {
             "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
             "icnSize": 20
