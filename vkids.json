@@ -50,9 +50,9 @@
         "trayOrientation": "vertical",
         "trayContentType": "dynamic",
         "trayLayout": "linearTray",
-        "cardHeight": "115",
-        "cornerRadius": "200",
-        "cardWidth": "200",
+        "cardHeight": 380,
+        "cornerRadius": 200,
+        "cardWidth": 570,
         "cardShape": "",
         "bgImage":"https://vkimg.vootkids.com/kidsimg/voot-kids/prod/include/upload/voot-kids-images/tab-menu/tablet_pattern_icon_1616415705_600X600.png",
         "titleSection": {
