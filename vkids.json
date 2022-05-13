@@ -44,7 +44,7 @@
       ]
     },
     {
-      "railName": "Realated Movies",
+      "railName": "Related Movies",
       "uiSpec": {
         "trayRepresentation": "sameContent",
         "trayOrientation": "vertical",
