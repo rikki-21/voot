@@ -157,7 +157,7 @@
         "bgImage": "https://vkimg.vootkids.com/kidsimg/voot-kids/prod/include/upload/voot-kids-images/tab-menu/tablet_pattern_icon_1646833566_452X452.png",
         "titleSection": {
           "titlePosition": "left",
-          "titleFontSize": 30,
+          "titleFontSize": 45,
           "subTitleSection": {
             "subTitlePosition": "left",
             "subtitleFontsize": 25,
@@ -321,7 +321,7 @@
         "bgImage": "https://vkimg.vootkids.com/kidsimg/voot-kids/prod/include/upload/voot-kids-web-images/deck/webMystuffCarousel_1_7_bg_image_1651640903_1280X720.jpg?impolicy=resizeMedium&w=492&h=276",
         "titleSection": {
           "titlePosition": "left",
-          "titleFontSize": 30,
+          "titleFontSize": 45,
           "subTitleSection": {
             "subTitlePosition": "left",
             "subtitleFontsize": 25,
