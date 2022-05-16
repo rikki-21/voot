@@ -9,7 +9,7 @@
         "cardAspectRatio": "9:16",
         "cornerRadius": 360,
         "bgImage": "https://vkimg.vootkids.com/kidsimg/voot-kids/prod/include/upload/voot-kids-images/tab-menu/tablet_pattern_icon_1616415544_600X600.png",
-        "railNameSize": 60,
+        "railNameSize": 30,
         "titleSection": {
           "titlePosition": "left",
           "titleFontSize": 45,
@@ -168,7 +168,7 @@
             "episodeFontsize": 25
           }
         },
-        "railNameSize": 60,
+        "railNameSize": 30,
         "trayIcon": "https://rtyuu",
         "trayButton": {
           "buttonText": "All",
@@ -332,7 +332,7 @@
             "episodeFontsize": 25
           }
         },
-        "railNameSize": 60,
+        "railNameSize": 30,
         "trayButton": {
           "buttonText": "All",
           "fontSize": 10,
@@ -472,7 +472,7 @@
         "cornerRadius": 360,
         "cardAspectRatio": "2:1",
         "bgImage": "https://vkimg.vootkids.com/kidsimg/voot-kids/prod/include/upload/voot-kids-web-images/deck/webMystuffCarousel_1_7_bg_image_1651640903_1280X720.jpg?impolicy=resizeMedium&w=492&h=276",
-        "railNameSize": 60,
+        "railNameSize": 30,
         "titleSection": {
           "titlePosition": "left",
           "titleFontSize": 18,
