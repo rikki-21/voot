@@ -4,9 +4,9 @@
       "railName": "",
       "uiSpec": {
         "mediaType": "video",
-        "cardHeight": "440",
-        "cornerRadius": "300",
-        "cardWidth": "650",
+        "cardHeight": 440,
+        "cornerRadius": 300,
+        "cardWidth": 650,
         "cardAspectRatio": "9:16",
         "titleSection": {
           "titlePosition": "left",
