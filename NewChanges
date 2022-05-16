@@ -168,7 +168,7 @@
             "episodeFontsize": 25
           }
         },
-        "railNameSize": 30,
+        "railNameSize": 45,
         "trayIcon": "https://rtyuu",
         "trayButton": {
           "buttonText": "All",
@@ -332,7 +332,7 @@
             "episodeFontsize": 25
           }
         },
-        "railNameSize": 30,
+        "railNameSize": 45,
         "trayButton": {
           "buttonText": "All",
           "fontSize": 10,
