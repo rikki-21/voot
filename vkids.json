@@ -56,6 +56,7 @@
         "cardShape": "",
         "columns":2,
         "bgImage":"https://vkimg.vootkids.com/kidsimg/voot-kids/prod/include/upload/voot-kids-images/tab-menu/tablet_pattern_icon_1616415705_600X600.png",
+        "railNameSize": 45,
         "titleSection": {
           "titlePosition": "left",
           "titleFontSize": 45,
