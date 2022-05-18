@@ -4,7 +4,7 @@
       "railName": "",
       "uiSpec": {
         "mediaType": "video",
-        "cardHeight": 440,
+        "cardHeight": 550,
         "cornerRadius": 300,
         "cardWidth": 650,
         "cardAspectRatio": "9:16",
@@ -13,7 +13,8 @@
           "titleFontSize": 45,
           "descriptionSection": {
             "descriptionPosition": "left",
-            "descriptionFontSize": 45
+            "descriptionFontSize": 45,
+            "smallFontSize": 35
           }
         }
       },
