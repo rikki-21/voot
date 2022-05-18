@@ -8,13 +8,13 @@
         "cornerRadius": 300,
         "cardWidth": 650,
         "cardAspectRatio": "9:16",
+        "smallFontSize": 35,
         "titleSection": {
           "titlePosition": "left",
           "titleFontSize": 45,
           "descriptionSection": {
             "descriptionPosition": "left",
-            "descriptionFontSize": 45,
-            "smallFontSize": 35
+            "descriptionFontSize": 45
           }
         }
       },
@@ -58,13 +58,14 @@
         "columns":2,
         "bgImage":"https://vkimg.vootkids.com/kidsimg/voot-kids/prod/include/upload/voot-kids-images/tab-menu/tablet_pattern_icon_1616415705_600X600.png",
         "railNameSize": 45,
+        "smallFontSize": 35,
         "titleSection": {
           "titlePosition": "left",
           "titleFontSize": 45,
           "subTitleSection": {
             "subTitlePosition": "left",
             "subtitleFontSize": 30,
-            "smallFontSize": 35,
+            
             "vootIcnPosition": "Top-right"
           }
         }
