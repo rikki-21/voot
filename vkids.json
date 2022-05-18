@@ -64,6 +64,7 @@
           "subTitleSection": {
             "subTitlePosition": "left",
             "subtitleFontSize": 30,
+            "smallFontSize": 35,
             "vootIcnPosition": "Top-right"
           }
         }
