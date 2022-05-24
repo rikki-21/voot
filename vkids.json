@@ -34,7 +34,7 @@
           "yearOfRelease": 2020,
           "ageRating": "U/A16+",
           "ageRatingDescription": "Moderate Language, Violence",
-          "playButton": {
+          "PlayButton": {
             "ButtonText": "Watch now",
             "fontSize": "12",
             "buttonLink:": "https://i.postimg.cc/65zNJxps/Watch-now-button.png",
@@ -83,11 +83,11 @@
           "bgImage": "https://kimg.voot.com/kimg/dc2ec723e1394927a9d743f043d6ce07_1280X720.jpg?impolicy=resizeMedium&w=200&h=112.5",
           "nextPageAPI": "https://qwerty",
           "mediaType": "video",
-          "contentInfo": {
-            "playButtonIcn": {
+          "playButtonIcn": {
               "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
               "icnSize": 10
             },
+          "contentInfo": {
             "title": "The dead can talk",
             "episode": "E01"
           }
@@ -104,11 +104,11 @@
           "bgImage": "https://kimg.voot.com/kimg/5a2964193c844dbab80bd3e1ff280439_1280X720.jpg?impolicy=resizeMedium&w=200&h=112.5",
           "nextPageAPI": "https://qwerty",
           "mediaType": "video",
-          "contentInfo": {
-            "playButtonIcn": {
+          "playButtonIcn": {
               "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
               "icnSize": 10
             },
+          "contentInfo": {
             "title": "Chhota Bheem - Romani Adventure",
             "episode": "E01"
           }
@@ -125,11 +125,11 @@
           "bgImage": "https://kimg.voot.com/kimg/4e6f8b92afdd4fb69b68468383a7cb36_1280X720.jpg?impolicy=resizeMedium&w=200&h=112.5",
           "nextPageAPI": "https://qwerty",
           "mediaType": "video",
-          "contentInfo": {
-            "playButtonIcn": {
+          "playButtonIcn": {
               "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
               "icnSize": 10
             },
+          "contentInfo": {
             "title": "Chhota Bheem - Romani Adventure",
             "episode": "E01"
           }
@@ -146,11 +146,11 @@
           "bgImage": "https://kimg.voot.com/kimg/0c793da65d9f44f590de3716a6ba4d52_1280X720.jpg?impolicy=resizeMedium&w=200&h=112.5",
           "nextPageAPI": "https://qwerty",
           "mediaType": "video",
-          "contentInfo": {
-            "playButtonIcn": {
+          "playButtonIcn": {
               "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
               "icnSize": 10
             },
+          "contentInfo": {
             "title": "Chhota Bheem - Romani Adventure",
             "episode": "E01"
           }
@@ -167,11 +167,11 @@
           "bgImage": "https://kimg.voot.com/kimg/8946d30ba5c14fde869f5ec577d591eb_1280X720.jpg?impolicy=resizeMedium&w=200&h=112.5",
           "nextPageAPI": "https://qwerty",
           "mediaType": "video",
-          "contentInfo": {
-            "playButtonIcn": {
+          "playButtonIcn": {
               "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
               "icnSize": 10
             },
+          "contentInfo": {
             "title": "Chhota Bheem - Romani Adventure",
             "episode": "E01"
           }
@@ -188,11 +188,11 @@
           "bgImage": "https://kimg.voot.com/kimg/961914e724fb463c873ba4ca48ea00fe_1280X720.jpg?impolicy=resizeMedium&w=200&h=112.5",
           "nextPageAPI": "https://qwerty",
           "mediaType": "video",
-          "contentInfo": {
-            "playButtonIcn": {
+          "playButtonIcn": {
               "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
               "icnSize": 10
             },
+          "contentInfo": {
             "title": "Chhota Bheem - Romani Adventure",
             "episode": "E01"
           }
