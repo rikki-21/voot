@@ -37,7 +37,7 @@
           "PlayButton": {
             "ButtonText": "Watch now",
             "fontSize": "12",
-            "ButtonLink:": "https://i.postimg.cc/65zNJxps/Watch-now-button.png",
+            "ButtonLink:": "https://github.com/rikki-21/voot/blob/main/watchNow.jpg",
             "ButtonBgColor": "#ffffff"
           },
           "likeButton": "https://i.postimg.cc/RZDqcbyt/like-button.png"
