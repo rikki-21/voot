@@ -37,7 +37,7 @@
           "PlayButton": {
             "ButtonText": "Watch now",
             "fontSize": "12",
-            "buttonLink:": "https://i.postimg.cc/65zNJxps/Watch-now-button.png",
+            "ButtonLink:": "https://i.postimg.cc/65zNJxps/Watch-now-button.png",
             "ButtonBgColor": "#ffffff"
           },
           "likeButton": "https://i.postimg.cc/RZDqcbyt/like-button.png"
