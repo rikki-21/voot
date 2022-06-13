@@ -120,6 +120,78 @@
             "subtitle": "Comedy"
           }
         },
+                {
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 30
+          },
+          "isSelect": true,
+          "imgUrl": "https://i.postimg.cc/cLWQqMwv/Picture001.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "buttonIcn": "",
+          "nextPageAPI": "https://raw.githubusercontent.com/rikki-21/voot/main/ScreenProgramInfo.json",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 30
+            },
+            "title": "Apaharan",
+            "description": "",
+            "season": "S02",
+            "episode": "E01",
+            "subtitle": "Rudra in Demand!"
+          }
+        },
+                {
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 30
+          },
+          "isSelect": true,
+          "imgUrl": "https://i.postimg.cc/cLWQqMwv/Picture001.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "buttonIcn": "",
+          "nextPageAPI": "https://raw.githubusercontent.com/rikki-21/voot/main/ScreenProgramInfo.json",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 30
+            },
+            "title": "Apaharan",
+            "description": "",
+            "season": "S02",
+            "episode": "E01",
+            "subtitle": "Rudra in Demand!"
+          }
+        },
+                {
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 30
+          },
+          "isSelect": true,
+          "imgUrl": "https://i.postimg.cc/cLWQqMwv/Picture001.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "buttonIcn": "",
+          "nextPageAPI": "https://raw.githubusercontent.com/rikki-21/voot/main/ScreenProgramInfo.json",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 30
+            },
+            "title": "Apaharan",
+            "description": "",
+            "season": "S02",
+            "episode": "E01",
+            "subtitle": "Rudra in Demand!"
+          }
+        },
         {
           "isPremium": false,
           "premiumIcn": {
@@ -435,6 +507,183 @@
             "description": "",
             "season": "S01",
             "episode": "E05",
+            "subtitle": ""
+          }
+        },
+        {
+          "cardId": "05",
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/ft6CwF9H/Picture003.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://raw.githubusercontent.com/rikki-21/voot/main/ScreenProgramInfo.json",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "title": "Spy Bahu",
+            "description": "",
+            "season": "S02",
+            "episode": "E03",
+            "subtitle": ""
+          }
+        }
+      ]
+    },
+    {
+      "railName": "Latest Episode",
+      "uiSpec": {
+        "trayLayout": "linearTray",
+        "cardHeight": 300,
+        "cardWidth": 500,
+        "cornerRadius": 360,
+        "cardAspectRatio": "9:16",
+        "bgImage": "https://vkimg.vootkids.com/kidsimg/voot-kids/prod/include/upload/voot-kids-web-images/deck/webMystuffCarousel_1_7_bg_image_1651640903_1280X720.jpg?impolicy=resizeMedium&w=492&h=276",
+        "titleSection": {
+          "titlePosition": "left",
+          "titleFontSize": 45,
+          "subTitleSection": {
+            "subTitlePosition": "left",
+            "subtitleFontsize": 25,
+            "seasonPosition": "left",
+            "seasonFontsize": 25,
+            "episodePosition": "left",
+            "episodeFontsize": 25
+          }
+        },
+        "railNameSize": 45,
+        "trayButton": {
+          "buttonText": "All",
+          "fontSize": 10,
+          "fontStyle": "Lora",
+          "buttonLink:": "https://i.postimg.cc/gwmQXNpX/All-Button.png",
+          "buttonBgColor": "#800080"
+        }
+      },
+      "railCardItems": [
+        {
+          "cardId": "01",
+          "isPremium": false,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/KRx0YDyc/Picture11.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://raw.githubusercontent.com/rikki-21/voot/main/ScreenProgramInfo.json",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "title": "Fanaa",
+            "description": "",
+            "season": "S01",
+            "episode": "E01",
+            "subtitle": ""
+          }
+        },
+        {
+          "cardId": "02",
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/z3nd5P6P/Picture12.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://raw.githubusercontent.com/rikki-21/voot/main/ScreenProgramInfo.json",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "title": "Halo",
+            "description": "",
+            "season": "S01",
+            "episode": "E02",
+            "subtitle": ""
+          }
+        },
+        {
+          "cardId": "03",
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/gLq4Dn3P/Picture13.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://raw.githubusercontent.com/rikki-21/voot/main/ScreenProgramInfo.json",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "title": "The Circus",
+            "description": "",
+            "season": "S01",
+            "episode": "E02",
+            "subtitle": ""
+          }
+        },
+        {
+          "cardId": "04",
+          "isPremium": false,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/3yxn92hZ/Picture002.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://raw.githubusercontent.com/rikki-21/voot/main/ScreenProgramInfo.json",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "title": "The Khatra Show",
+            "description": "",
+            "season": "S01",
+            "episode": "E05",
+            "subtitle": ""
+          }
+        },
+        {
+          "cardId": "05",
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/ft6CwF9H/Picture003.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://raw.githubusercontent.com/rikki-21/voot/main/ScreenProgramInfo.json",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "title": "Spy Bahu",
+            "description": "",
+            "season": "S02",
+            "episode": "E03",
             "subtitle": ""
           }
         },
