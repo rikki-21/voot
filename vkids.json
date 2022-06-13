@@ -55,8 +55,8 @@
         "cornerRadius": 200,
         "cardWidth": 500,
         "cardShape": "",
-        "columns":2,
-        "bgImage":"https://vkimg.vootkids.com/kidsimg/voot-kids/prod/include/upload/voot-kids-images/tab-menu/tablet_pattern_icon_1616415705_600X600.png",
+        "columns": 2,
+        "bgImage": "https://vkimg.vootkids.com/kidsimg/voot-kids/prod/include/upload/voot-kids-images/tab-menu/tablet_pattern_icon_1616415705_600X600.png",
         "railNameSize": 45,
         "smallFontSize": 35,
         "titleSection": {
@@ -65,7 +65,6 @@
           "subTitleSection": {
             "subTitlePosition": "left",
             "subtitleFontSize": 30,
-            
             "vootIcnPosition": "Top-right"
           }
         }
@@ -84,9 +83,9 @@
           "nextPageAPI": "https://qwerty",
           "mediaType": "video",
           "playButtonIcn": {
-              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
-              "icnSize": 10
-            },
+            "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+            "icnSize": 10
+          },
           "contentInfo": {
             "title": "The dead can talk",
             "episode": "E01"
@@ -111,9 +110,9 @@
           "nextPageAPI": "https://qwerty",
           "mediaType": "video",
           "playButtonIcn": {
-              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
-              "icnSize": 10
-            },
+            "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+            "icnSize": 10
+          },
           "contentInfo": {
             "title": "Chhota Bheem - Romani Adventure",
             "episode": "E01"
@@ -138,9 +137,9 @@
           "nextPageAPI": "https://qwerty",
           "mediaType": "video",
           "playButtonIcn": {
-              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
-              "icnSize": 10
-            },
+            "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+            "icnSize": 10
+          },
           "contentInfo": {
             "title": "Chhota Bheem - Romani Adventure",
             "episode": "E01"
@@ -165,9 +164,9 @@
           "nextPageAPI": "https://qwerty",
           "mediaType": "video",
           "playButtonIcn": {
-              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
-              "icnSize": 10
-            },
+            "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+            "icnSize": 10
+          },
           "contentInfo": {
             "title": "Chhota Bheem - Romani Adventure",
             "episode": "E01"
@@ -192,9 +191,9 @@
           "nextPageAPI": "https://qwerty",
           "mediaType": "video",
           "playButtonIcn": {
-              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
-              "icnSize": 10
-            },
+            "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+            "icnSize": 10
+          },
           "contentInfo": {
             "title": "Chhota Bheem - Romani Adventure",
             "episode": "E01"
@@ -219,11 +218,119 @@
           "nextPageAPI": "https://qwerty",
           "mediaType": "video",
           "playButtonIcn": {
-              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
-              "icnSize": 10
-            },
+            "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+            "icnSize": 10
+          },
           "contentInfo": {
             "title": "Chhota Bheem - Romani Adventure",
+            "episode": "E01"
+          },
+          "PlayButton": {
+            "ButtonText": "Watch now",
+            "fontSize": "12",
+            "buttonLink": "https://i.postimg.cc/65zNJxps/Watch-now-button.png",
+            "ButtonBgColor": "#ffffff"
+          }
+        },
+                {
+          "cardId": "07",
+          "isPremium": false,
+          "premiumIcn": {
+            "icnUrl": "",
+            "icnSize": 20
+          },
+          "duration": "40",
+          "imgUrl": "https://kimg.voot.com/kimg/dc2ec723e1394927a9d743f043d6ce07_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
+          "bgImage": "https://kimg.voot.com/kimg/dc2ec723e1394927a9d743f043d6ce07_1280X720.jpg?impolicy=resizeMedium&w=200&h=112.5",
+          "nextPageAPI": "https://qwerty",
+          "mediaType": "video",
+          "playButtonIcn": {
+            "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+            "icnSize": 10
+          },
+          "contentInfo": {
+            "title": "The dead can talk",
+            "episode": "E01"
+          },
+          "PlayButton": {
+            "ButtonText": "Watch now",
+            "fontSize": "12",
+            "buttonLink": "https://i.postimg.cc/65zNJxps/Watch-now-button.png",
+            "ButtonBgColor": "#ffffff"
+          }
+        },
+                {
+          "cardId": "08",
+          "isPremium": false,
+          "premiumIcn": {
+            "icnUrl": "",
+            "icnSize": 20
+          },
+          "duration": "40",
+          "imgUrl": "https://kimg.voot.com/kimg/dc2ec723e1394927a9d743f043d6ce07_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
+          "bgImage": "https://kimg.voot.com/kimg/dc2ec723e1394927a9d743f043d6ce07_1280X720.jpg?impolicy=resizeMedium&w=200&h=112.5",
+          "nextPageAPI": "https://qwerty",
+          "mediaType": "video",
+          "playButtonIcn": {
+            "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+            "icnSize": 10
+          },
+          "contentInfo": {
+            "title": "The dead can talk",
+            "episode": "E01"
+          },
+          "PlayButton": {
+            "ButtonText": "Watch now",
+            "fontSize": "12",
+            "buttonLink": "https://i.postimg.cc/65zNJxps/Watch-now-button.png",
+            "ButtonBgColor": "#ffffff"
+          }
+        },
+                {
+          "cardId": "09",
+          "isPremium": false,
+          "premiumIcn": {
+            "icnUrl": "",
+            "icnSize": 20
+          },
+          "duration": "40",
+          "imgUrl": "https://kimg.voot.com/kimg/dc2ec723e1394927a9d743f043d6ce07_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
+          "bgImage": "https://kimg.voot.com/kimg/dc2ec723e1394927a9d743f043d6ce07_1280X720.jpg?impolicy=resizeMedium&w=200&h=112.5",
+          "nextPageAPI": "https://qwerty",
+          "mediaType": "video",
+          "playButtonIcn": {
+            "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+            "icnSize": 10
+          },
+          "contentInfo": {
+            "title": "The dead can talk",
+            "episode": "E01"
+          },
+          "PlayButton": {
+            "ButtonText": "Watch now",
+            "fontSize": "12",
+            "buttonLink": "https://i.postimg.cc/65zNJxps/Watch-now-button.png",
+            "ButtonBgColor": "#ffffff"
+          }
+        },
+                {
+          "cardId": "10",
+          "isPremium": false,
+          "premiumIcn": {
+            "icnUrl": "",
+            "icnSize": 20
+          },
+          "duration": "40",
+          "imgUrl": "https://kimg.voot.com/kimg/dc2ec723e1394927a9d743f043d6ce07_850X1275.jpg?impolicy=resizeMedium&w=110&h=73",
+          "bgImage": "https://kimg.voot.com/kimg/dc2ec723e1394927a9d743f043d6ce07_1280X720.jpg?impolicy=resizeMedium&w=200&h=112.5",
+          "nextPageAPI": "https://qwerty",
+          "mediaType": "video",
+          "playButtonIcn": {
+            "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+            "icnSize": 10
+          },
+          "contentInfo": {
+            "title": "The dead can talk",
             "episode": "E01"
           },
           "PlayButton": {
